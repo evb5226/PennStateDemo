@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PennStateDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_old_main">OldMain</string>
+    <string name="title_activity_mscience_building">MScienceBuilding</string>
+    <string name="title_activity_end_page">EndPage</string>
+</resources>
